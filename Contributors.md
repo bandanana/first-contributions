@@ -35,7 +35,7 @@
 - [Karanjot Singh](https://github.com/karanjot786)
 - [Felipe Alves](https://github.com/felpsalvs)
 - [Heming Huang](https://github.com/bandanana)
-[Nawshikha Mahato](https://github.com/nawshikha)
+- [Nawshikha Mahato](https://github.com/nawshikha)
 - [Alex Chen](https://github.com/alexchen2) 
 - [Peter Faretra] (https://github.com/peterston-e)
 - [Abhinav Puri](https://github.com/Abhinav16072001)
