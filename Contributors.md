@@ -34,7 +34,6 @@
 - [Neaha Bijo](https://github.com/Neaha-Bijo)
 - [Karanjot Singh](https://github.com/karanjot786)
 - [Felipe Alves](https://github.com/felpsalvs)
-- [Heming Huang](https://github.com/bandanana)
 - [Nawshikha Mahato](https://github.com/nawshikha)
 - [Alex Chen](https://github.com/alexchen2) 
 - [Peter Faretra] (https://github.com/peterston-e)
